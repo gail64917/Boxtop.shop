@@ -1,0 +1,11 @@
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\bin\Debug\netcoreapp2.0\BoxTop.deps.json
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\bin\Debug\netcoreapp2.0\BoxTop.runtimeconfig.json
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\bin\Debug\netcoreapp2.0\BoxTop.runtimeconfig.dev.json
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\bin\Debug\netcoreapp2.0\BoxTop.dll
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\bin\Debug\netcoreapp2.0\BoxTop.pdb
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\obj\Debug\netcoreapp2.0\BoxTop.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\obj\Debug\netcoreapp2.0\BoxTop.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\obj\Debug\netcoreapp2.0\BoxTop.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\obj\Debug\netcoreapp2.0\BoxTop.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\obj\Debug\netcoreapp2.0\BoxTop.dll
+C:\Users\Vladimir\Desktop\BOXTOP.SHOP\BoxTop\BoxTop\obj\Debug\netcoreapp2.0\BoxTop.pdb
