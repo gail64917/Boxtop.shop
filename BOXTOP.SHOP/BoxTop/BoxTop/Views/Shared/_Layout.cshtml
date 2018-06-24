@@ -38,7 +38,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Подарочная коробка<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            @*<li><a asp-area="" asp-controller="Home" asp-action="GetProducts" asp-route-id="1">Products</a></li>*@
+                            <li><a asp-area="" asp-controller="Products" asp-action="Index" asp-route-id="1">Products</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -109,7 +109,7 @@
                     {
                         tokenString = "false";
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a asp-area="" asp-controller="Users" asp-action="Registration">Registration</a></li>
+                            <li><a asp-area="" asp-controller="Users" asp-action="Create">Registration</a></li>
                             <li><a asp-area="" asp-controller="Users" asp-action="Authorisation">Authorisation</a></li>
                         </ul>
                     }

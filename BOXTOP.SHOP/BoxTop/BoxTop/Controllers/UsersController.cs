@@ -82,7 +82,7 @@ namespace BoxTop.Controllers
             user = user != null ? user : "";
             HttpContext.Session.SetString("Token", "");
             HttpContext.Session.SetString("Login", "");
-            return RedirectToAction(nameof(Index), "Home");
+            return RedirectToAction("Index", "Home");
         }
 
         //________________________________________________________________________________________________________________________
@@ -192,7 +192,7 @@ namespace BoxTop.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index","Home");
             }
             return View(user);
         }
@@ -225,7 +225,7 @@ namespace BoxTop.Controllers
             var user = await _context.Users.SingleOrDefaultAsync(m => m.ID == id);
             _context.Users.Remove(user);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction("Index","Home");
         }
 
         private bool UserExists(int id)

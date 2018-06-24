@@ -18,6 +18,7 @@ namespace BoxTop.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product_Category> Product_Categories { get; set; }
         public DbSet<OrderItems> OrderItems { get; set; }
+        public DbSet<CartItem> ShoppingCartItems { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
